@@ -1,0 +1,1 @@
+let showMessage = require("./exportFunction");
